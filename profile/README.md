@@ -3,5 +3,5 @@ Shuniji Labs is a development group focused on ChromeOS utilities and other rand
 <br />
 Members: <br />
 [kraeb](https://github.com/DyingHynixMLC) <br />
-[simpansoftware](https://github.com/simpansoftware)
+[simpansoftware](https://github.com/simpansoftware) <br />
 ac3 (link soon dont cri :()
